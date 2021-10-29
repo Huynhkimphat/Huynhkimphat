@@ -87,5 +87,5 @@
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Huynhkimphat) 
 
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2021 HKP, all rights reserved. Made with ❤️ for a better web. </p>
 
