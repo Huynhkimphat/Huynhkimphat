@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/PhatHuynh"><img src="https://api.daily.dev/devcards/bcc664d36d344c6dab2af95880161d55.png?r=jx7" width="400" alt="Phat Huynh's Dev Card"/></a>
-<img src="https://img.shields.io/badge/HuynhKimPhat-LeThiThanhHuong-important"/>
+
 
 #### I am a software developer with 3 years of experience in Full-Stack engineering( which includes experience in Modern Front-End Web Development ) with good knowledge of Object-Oriented Analysis and Design, Architecture Design, and Design Patterns
 
